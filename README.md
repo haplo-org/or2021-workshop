@@ -6,4 +6,4 @@ The code in this repository was used for an [Open Repositories 2021](https://or2
 
 * UI element to inform users of an item's quality using a simple metric.
 
-* Exaample metadata schema added to the OAI-PMH interface which exposes items' title, type, and quality (using a simple metric).
+* Example metadata schema added to the OAI-PMH interface which exposes items' title, type, and quality (using a simple metric).
