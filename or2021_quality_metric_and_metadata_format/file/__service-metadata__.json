@@ -1,0 +1,14 @@
+{
+    "example:metadata:write-store-object-below-xml-cursor": {
+        "statements": [
+            "conforms-to hres:write-store-object-below-xml-cursor",
+            "hres:oai-pmh:exposed-metadata-format"
+        ],
+        "metadata": {
+            "hres:oai-pmh:metadata-prefix":     "example_metadata_format",
+            "hres:oai-pmh:schema":              "http://schema.example.org/oai/oai-2.0/oai.xsd",
+            "hres:oai-pmh:metadata-namespace":  "http://schema.example.org/oai/oai-2.0/",
+            "hres:oai-pmh:root-element":        "output"
+        }
+    }
+}

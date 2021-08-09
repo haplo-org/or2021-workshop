@@ -1,0 +1,13 @@
+{
+  "pluginName": "or2021_quality_metric_and_metadata_format",
+  "pluginAuthor": "Haplo Services",
+  "pluginVersion": 1,
+  "displayName": "Quality Metric And Metadata Format",
+  "displayDescription": "Simple addition of a quality metric and metadata format to a Haplo Repository",
+  "installSecret": "1d289d58c9f313b9a8a1c465635926eb4bb93bb6",
+  "apiVersion": 4,
+  "load": [
+      "js/or2021_quality_metric_and_metadata_format.js"
+    ],
+  "respond": ["/do/or2021-quality-metric-and-metadata-format"]
+}
