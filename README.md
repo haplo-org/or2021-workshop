@@ -4,6 +4,6 @@ The code in this repository was used for an [Open Repositories 2021](https://or2
 
 ## Features:
 
-* Repository items get a UI element to inform users whether the item is good or not using a simple metric
+* UI element to inform users of an item's quality using a simple metric.
 
-* A new example metadata schema added to the OAI-PMH interface which exposes the items title, type, and quality (using a simple metric).
+* Exaample metadata schema added to the OAI-PMH interface which exposes items' title, type, and quality (using a simple metric).
